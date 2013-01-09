@@ -1,16 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[There Is No Blog - An Octopress Blog]]></title>
   <link href="http://portaljacker.github.com/atom.xml" rel="self"/>
   <link href="http://portaljacker.github.com/"/>
-  <updated>2013-01-08T20:48:30-05:00</updated>
+  <updated>2013-01-08T22:17:15-05:00</updated>
   <id>http://portaljacker.github.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Portaljacker]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World! (Again...)]]></title>
+    <link href="http://portaljacker.github.com/blog/2013/01/08/hello-world-again-dot-dot-dot/"/>
+    <updated>2013-01-08T21:16:00-05:00</updated>
+    <id>http://portaljacker.github.com/blog/2013/01/08/hello-world-again-dot-dot-dot</id>
+    <content type="html"><![CDATA[<p>It look&#8217;s like it&#8217;s time for me to start another blog&#8230;again! This timne will be different, I promise!</p>
+
+<p>My goal this time is to honestly just post about anything I damn feel like posting, that will obviously be too long for Twitter.</p>
+
+<p>There will probably be more of a focus on game development related things and video games in general since I&#8217;m in my final semester of my Computer Science undergraduate with an option in Computer Games.</p>
+
+<p>I&#8217;m sure I&#8217;ll be posting about lots of random crap, only time will tell.</p>
+
+<p>For now I leave you with this mostly rambling introductory post, which was mostly made for the purposes of testing Octopress.</p>
+
+<p>Look forward to more posts from me soon.</p>
+
+<p>Or don&#8217;t, you have the right to not care.</p>
+]]></content>
+  </entry>
   
 </feed>
