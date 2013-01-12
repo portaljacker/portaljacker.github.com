@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[There Is No Blog - An Octopress Blog]]></title>
-  <link href="http://portaljacker.github.com/atom.xml" rel="self"/>
-  <link href="http://portaljacker.github.com/"/>
-  <updated>2013-01-08T22:17:15-05:00</updated>
-  <id>http://portaljacker.github.com/</id>
+  <link href="http://thereisnoblog.com/atom.xml" rel="self"/>
+  <link href="http://thereisnoblog.com/"/>
+  <updated>2013-01-12T01:08:57-05:00</updated>
+  <id>http://thereisnoblog.com/</id>
   <author>
     <name><![CDATA[Portaljacker]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Hello World! (Again...)]]></title>
-    <link href="http://portaljacker.github.com/blog/2013/01/08/hello-world-again-dot-dot-dot/"/>
+    <link href="http://thereisnoblog.com/blog/2013/01/08/hello-world-again-dot-dot-dot/"/>
     <updated>2013-01-08T21:16:00-05:00</updated>
-    <id>http://portaljacker.github.com/blog/2013/01/08/hello-world-again-dot-dot-dot</id>
+    <id>http://thereisnoblog.com/blog/2013/01/08/hello-world-again-dot-dot-dot</id>
     <content type="html"><![CDATA[<p>It look&#8217;s like it&#8217;s time for me to start another blog&#8230;again! This timne will be different, I promise!</p>
 
 <p>My goal this time is to honestly just post about anything I damn feel like posting, that will obviously be too long for Twitter.</p>
